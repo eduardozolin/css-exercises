@@ -1,0 +1,15 @@
+
+.preto,
+.amarelo {
+  font-family: sans-serif;
+  font-size: 30px;
+}
+
+.preto {
+  background-color: black;
+  color: white;
+}
+
+.amarelo {
+  background-color: yellow;
+}
