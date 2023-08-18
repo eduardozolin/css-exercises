@@ -1,0 +1,22 @@
+* {
+    font-family: sans-serif;
+}
+
+.number {
+    background-color: pink;
+}
+
+#number-2 {
+    font-size: xx-large;
+    color: blue;
+}
+
+.number-3 {
+    background-color: pink;
+    font-size: x-large;
+}
+
+#number-4 {
+    background-color: lightgreen;
+    font-size: x-large;
+}
